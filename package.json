@@ -1,6 +1,6 @@
 {
   "name": "@hexlet/code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "[![Actions Status](https://github.com/ChechelRoman/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/ChechelRoman/frontend-project-lvl1/actions)",
   "main": "index.js",
@@ -19,5 +19,13 @@
   "homepage": "https://github.com/ChechelRoman/frontend-project-lvl1#readme",
   "bin": {
     "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
   }
 }
