@@ -16,5 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
+      - name: Install
+        run: make install
       - name: Run EsLint
         run: make lint
