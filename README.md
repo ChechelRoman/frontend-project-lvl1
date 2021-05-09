@@ -30,3 +30,10 @@ $ brain-gcd
 $ brain-progression
 ```
 [![asciicast](https://asciinema.org/a/kHXVUPalDcEVCj0Vx6Aa3YMSk.svg)](https://asciinema.org/a/kHXVUPalDcEVCj0Vx6Aa3YMSk)
+
+### Brain-prime game
+
+```
+$ brain-prime
+```
+[![asciicast](https://asciinema.org/a/kgBpfdmUrkhR5gIi24mR7fBm6.svg)](https://asciinema.org/a/kgBpfdmUrkhR5gIi24mR7fBm6)
