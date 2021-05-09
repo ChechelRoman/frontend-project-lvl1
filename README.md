@@ -23,3 +23,10 @@ $ brain-calc
 $ brain-gcd
 ```
 [![asciicast](https://asciinema.org/a/g9rzyDuSM8PvYmFu2JONB7Ktc.svg)](https://asciinema.org/a/g9rzyDuSM8PvYmFu2JONB7Ktc)
+
+### Brain-progression game
+
+```
+$ brain-progression
+```
+[![asciicast](https://asciinema.org/a/kHXVUPalDcEVCj0Vx6Aa3YMSk.svg)](https://asciinema.org/a/kHXVUPalDcEVCj0Vx6Aa3YMSk)
