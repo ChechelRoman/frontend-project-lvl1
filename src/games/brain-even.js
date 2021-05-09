@@ -9,6 +9,7 @@ const createGameData = () => {
   const num = generateRandomNumber(-1000, 1000);
   const question = String(num);
   const correctAnswer = isEven(num) ? 'yes' : 'no';
+
   return [question, correctAnswer];
 };
 

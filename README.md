@@ -9,3 +9,10 @@
 $ brain-even
 ```
 [![asciicast](https://asciinema.org/a/kGIAexccC0mF5xMEzOMqQLtyE.svg)](https://asciinema.org/a/kGIAexccC0mF5xMEzOMqQLtyE)
+
+### Brain-calc game
+
+```
+$ brain-calc
+```
+[![asciicast](https://asciinema.org/a/IequwaYsmAFKgy6NuZMTbCQUS.svg)](https://asciinema.org/a/IequwaYsmAFKgy6NuZMTbCQUS)
