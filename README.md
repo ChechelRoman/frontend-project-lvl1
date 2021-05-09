@@ -16,3 +16,10 @@ $ brain-even
 $ brain-calc
 ```
 [![asciicast](https://asciinema.org/a/IequwaYsmAFKgy6NuZMTbCQUS.svg)](https://asciinema.org/a/IequwaYsmAFKgy6NuZMTbCQUS)
+
+### Brain-gcd game
+
+```
+$ brain-gcd
+```
+[![asciicast](https://asciinema.org/a/g9rzyDuSM8PvYmFu2JONB7Ktc.svg)](https://asciinema.org/a/g9rzyDuSM8PvYmFu2JONB7Ktc)
