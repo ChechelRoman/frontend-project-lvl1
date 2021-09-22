@@ -9,7 +9,9 @@ This package contains 5 cli games: brain-even, brain-cal, brain-gdc, brain-progr
 
 ### Setup
 
+```
 $ make install
+```
 
 ### Games
 
