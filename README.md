@@ -3,6 +3,16 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![EsLint](https://github.com/ChechelRoman/frontend-project-lvl1/actions/workflows/EsLintCheck.yml/badge.svg)](https://github.com/ChechelRoman/frontend-project-lvl1/actions)
 
+### About
+
+This package contains 5 cli games: brain-even, brain-cal, brain-gdc, brain-progression and brain-prime.
+
+### Setup
+
+$ make install
+
+### Games
+
 ### Brain-even game
 
 ```
